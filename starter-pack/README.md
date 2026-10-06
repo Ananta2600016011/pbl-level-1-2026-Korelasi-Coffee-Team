@@ -1,4 +1,4 @@
-# [NAMA TIM] — Digital Problem Framing Mini Project
+# [Syncore Team] — Digital Problem Framing Mini Project
 
 ## Tim
 
@@ -16,7 +16,7 @@
 - **Nama Unit Usaha**: [Korelasi Coffee]
 - **Lokasi**: [Jl. Patih Singoranu No.155, Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191]
 - **Pemilik**: [Jasmine,+6281584627372]
-- **Jenis Usaha**: [Coffee Shop]
+- **Jenis Usaha**: [Coffee Shop / Kafe]
 
 ## Driving Question
 
