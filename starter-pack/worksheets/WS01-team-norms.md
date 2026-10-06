@@ -20,14 +20,14 @@
 
 | Fase | Minggu | Phase Lead | Tanggung Jawab Utama Coverage |
 |---|---|---|---|
-| Discover | 1 | [Nama] | Koordinasi pembentukan tim, norma, peluncuran |
-| Frame | 2 | [Nama] | Koordinasi observasi & wawancara lapangan |
-| Define | 3–4 | [Nama] | Koordinasi kebutuhan & metrik sukses |
-| Design | 5–7 | [Nama] | Koordinasi desain solusi & sesi critik |
-| Build | 9–12 | [Nama] | Koordinasi pengkodean prototipe |
-| Test | 11–12 | [Nama] | Koordinasi pengujian & validasi |
-| Communicate | 14–15 | [Nama] | Koordinasi penyusunan presentasi publik |
-| Reflect | 13–16 | [Nama] | Koordinasi refleksi, portfolio & passport |
+| Discover | 1 | [Ananta Rizqi Fadhlurrohman] | Koordinasi pembentukan tim, norma, peluncuran |
+| Frame | 2 | [Muhammad Rasikh Zakki Aufa] | Koordinasi observasi & wawancara lapangan |
+| Define | 3–4 | [Satria Arya Prathama] | Koordinasi kebutuhan & metrik sukses |
+| Design | 5–7 | [Satria Arya Prathama] | Koordinasi desain solusi & sesi critik |
+| Build | 9–12 | [Muhammad Dhiyyaudin Nur] | Koordinasi pengkodean prototipe |
+| Test | 11–12 | [Muhammad Rasikh Zaki Aufa] | Koordinasi pengujian & validasi |
+| Communicate | 14–15 | [Alfin Farrel Gennaro] | Koordinasi penyusunan presentasi publik |
+| Reflect | 13–16 | [Ananta Rizqi Fadhlurrohman] | Koordinasi refleksi, portfolio & passport |
 
 *Catatan: jadwal ini dapat disesuaikan sepanjang semester, dicatat di E5 (Meeting Log). Tim 3 orang: dua fase terakhir dikelola bersama.*
 
