@@ -2,12 +2,12 @@
 
 ## Tim
 
-| Ananta Rizqi Fadhlurrohman | 2600016011 | Phase Lead untuk Fase |
+| Ananta Rizqi Fadhlurrohman | 2600016011 | Discover, Reflect |
 |---|---|---|
-| [Muhammad Rasikh Zakki Aufa] | [2600016028] | Discover, Build |
-| [Muhammad Dhiyyaudin Nur] | [2600016008] | Frame, Test |
-| [Satria Arya Prathama] | [2600016023] | Define, Communicate |
-| [Alfin Farrel Gennaro] | [2600016046] | Design, Reflect |
+| [Muhammad Rasikh Zakki Aufa] | [2600016028] | Frame, Test |
+| [Muhammad Dhiyyaudin Nur] | [2600016008] | Build |
+| [Satria Arya Prathama] | [2600016023] | Define, Design |
+| [Alfin Farrel Gennaro] | [2600016046] | Communicate |
 
 > **Aturan**: Tim memakai **rotating phase lead** — tidak ada peran permanen. Setiap anggota memimpin minimal satu fase. Jadwal fase awal ditetapkan di WS01 dan dapat disesuaikan sepanjang semester.
 
