@@ -64,10 +64,10 @@
 
 ## Checklist
 
-- [ ] Tim terbentuk 3–4 orang
+- [x] Tim terbentuk 3–4 orang
 - [ ] Objek studi terpilih dari daftar aman
-- [ ] Jadwal rotating phase lead disepakati (semua memimpin minimal satu fase)
-- [ ] Norma tim disepakati dan disetujui semua anggota
+- [x] Jadwal rotating phase lead disepakati (semua memimpin minimal satu fase)
+- [x] Norma tim disepakati dan disetujui semua anggota
 - [ ] Salinan norma tim disimpan di GitHub (`docs/evidence/E5-meeting-log.md`)
 
 ---
