@@ -22,9 +22,9 @@
 |---|---|---|---|
 | Discover | 1 | [Ananta Rizqi Fadhlurrohman] | Koordinasi pembentukan tim, norma, peluncuran |
 | Frame | 2 | [Muhammad Rasikh Zakki Aufa] | Koordinasi observasi & wawancara lapangan |
-| Define | 3–4 | [Satria Arya Prathama] | Koordinasi kebutuhan & metrik sukses |
-| Design | 5–7 | [Satria Arya Prathama] | Koordinasi desain solusi & sesi critik |
-| Build | 9–12 | [Muhammad Dhiyyaudin Nur] | Koordinasi pengkodean prototipe |
+| Define | 3–4 | [Satria Ariya Prathama] | Koordinasi kebutuhan & metrik sukses |
+| Design | 5–7 | [Satria Ariya Prathama] | Koordinasi desain solusi & sesi critik |
+| Build | 9–12 | [Muhammad Dhiyauddin Nur] | Koordinasi pengkodean prototipe |
 | Test | 11–12 | [Muhammad Rasikh Zaki Aufa] | Koordinasi pengujian & validasi |
 | Communicate | 14–15 | [Alfin Farrel Gennaro] | Koordinasi penyusunan presentasi publik |
 | Reflect | 13–16 | [Ananta Rizqi Fadhlurrohman] | Koordinasi refleksi, portfolio & passport |
