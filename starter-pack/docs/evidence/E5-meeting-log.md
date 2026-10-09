@@ -31,12 +31,21 @@
 
 ## 4. Refleksi Individu (ringkas)
 
-### [Nama Anggota 1]
+### [Ananta Rizqi Fadhlurrohman]
 - **Kontribusi saya**: ...
 - **Kompetensi yang berkembang**: ...
 - **Yang akan saya lakukan berbeda**: ...
 
-### [Nama Anggota 2]
+### [Muhammad Rasikh Zakki Aufa]
+- ...
+
+### [Muhammad Dhiyauddin Nur]
+- ...
+
+### [Alfin Farrel Gennaro]
+- ...
+
+### [Satria Ariya Prathama]
 - ...
 
 ---
